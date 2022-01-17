@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MGIK from @TheRitual
 - 👀 I’m interested in making web apps and mobile apps/games
-- 🌱 I’m currently learning Java, JS, React.js, REST
-- 💞️ I’m looking to collaborate on fullstack projects
+- 🌱 I’m currently learning Java, JS, React.js, React Native, Node.js (there's always something to learn in those)
+- 💞️ I’m looking to collaborate on fullstack projects and willing to get my first Programming Job as Junior Frontend/React.js Developer
 - 📫 How to reach me? Just write ;) dev@theritual.eu
